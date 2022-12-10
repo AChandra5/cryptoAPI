@@ -1,0 +1,27 @@
+h1{
+    color:rgb(244, 236, 236)
+}
+#table-body td{
+    /* padding:10px 15px 13px 10px; */
+    padding:15px;
+    margin:5px;
+    border-bottom: 3px solid rgb(81, 79, 79);
+}
+.container{
+    padding-top: 5px;
+    margin:auto;
+    display: flex;
+
+}
+img{
+margin:0 5px 0 7px;
+padding:1px;
+}
+body{
+    background: url(https://img.freepik.com/free-vector/bitcoin-blockchain-digital-coin-crypto-currency-concept-background_1017-30307.jpg);
+    font-family: 'Poppins', sans-serif;
+}
+.table{
+    padding:25px;
+    /* opacity: 0.9; */
+}
